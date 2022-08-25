@@ -1,0 +1,37 @@
+.card-container {
+  margin: 10px;
+  width: 300px;
+}
+
+.character-img-container {
+  height: 250px;
+}
+
+.character-img {
+  width: 300px;
+  height: 250px;
+}
+
+.hl {
+  border-top: 2px solid red;
+}
+.section {
+  height: 100px;
+  margin: 0px;
+  background-color: black;
+  color: white;
+  overflow-y: scroll;
+}
+
+.section p,
+.section h5 {
+  margin: 0px;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.description {
+  color: white;
+  overflow-y: auto;
+  font-size: 14px;
+}
